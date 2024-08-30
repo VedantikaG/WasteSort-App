@@ -2,6 +2,7 @@
 
 ## Technologies used: Flutter, PostgreSQL, REST API, Django, Redis, Google API, Docker
 ## Description
+<p align="justify">
 Waste management is a critical global challenge exacerbated by urbanization and 
 increased consumption. Traditional methods often lead to overfilled landfills and 
 pollution. The WasteSort project offers a solution by leveraging image recognition 
