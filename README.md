@@ -1,4 +1,4 @@
-##### Authentication
+### Authentication
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/1482d89d-cd15-4e6a-ab4c-1454657a3a7e" alt="Login" width="200" height="400"/></td>
@@ -6,7 +6,7 @@
   </tr>
 </table>
 
-##### User Side
+### User Side
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/2beea44e-101f-4816-a7ab-808479aaba0b" alt="List of Actions" width="200" height="400"/></td>
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-##### Admin Side
+### Admin Side
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/190a7faf-7814-4425-8596-da4a2f8a14a4" alt="List of Actions" width="200" height="400"/></td>
